@@ -1,8 +1,8 @@
 
 
-<h1 align="center">⚜️ᗷOT ᗴᒪᘜᗩᘔᗩᖇ⚜️<br></h1>
+<h1 align="center">💙𝗥𝗔𝗶 | 𝗧𝗔𝗟𝗔𝗟💙<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/9d09a00e6c16ca29eead1.jpg" alt="animated" width="540" height="280" />
+<img src="https://telegra.ph/file/cc8b41e9bf359754ea67c.jpg" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
@@ -33,8 +33,8 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/201098906252"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/966504124495"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/JGQWBBOTXOHHbOYfHWhdKd"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
