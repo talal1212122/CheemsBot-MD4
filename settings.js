@@ -56,7 +56,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.vcardowner = ['966504124495'] //ur owner number
 global.ownername = "𝗥𝗔𝗶 | 𝗧𝗔𝗟𝗔𝗟 ٫" //ur owner name
-global.ytname = "YT: Elgazar" //ur yt chanel name
+global.ytname = "YT: 𝗥𝗔𝗶 | 𝗧𝗔𝗟𝗔𝗟" //ur yt chanel name
 global.socialm = "GitHub: Elgazar" //ur github or insta name
 global.location = "Egypt, Cairo, Aizawl" //ur location
 
@@ -64,12 +64,12 @@ global.location = "Egypt, Cairo, Aizawl" //ur location
 global.owner = ['966504124495']
 global.ownertag = '966504124495' //ur tag number
 global.botname = '𝗥𝗔𝗶 | 𝗧𝗔𝗟𝗔𝗟 ٫' //ur bot name
-global.linkz = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //ur website to be displayed
-global.botscript = 'https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn' //script link
+global.linkz = "https://youtube.com/channel/UCmitsD4mcxiijcmu2ebeOOw" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/channel/UCmitsD4mcxiijcmu2ebeOOw" //ur website to be displayed
+global.botscript = 'https://chat.whatsapp.com/JGQWBBOTXOHHbOYfHWhdKd' //script link
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
-global.packname = "⍣ الجزار الوزير يروحي ⍣" //ur sticker watermark packname
+global.packname = "⍣ 𝗥𝗔𝗶 | 𝗧𝗔𝗟𝗔𝗟 ⍣" //ur sticker watermark packname
 global.author = "⍣966504124495⍣" //ur sticker watermark author
 
 //Bot theme media
